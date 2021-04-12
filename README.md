@@ -5,7 +5,7 @@ This project is about the Cloak of Invisibility using the most popular library O
 After run the program, it'll take 3 seconds to take 20 snaps and the program will use the best snap.
 <img src="1.PNG" alt="Screenshot-01">
 
-Me without the red cloak.
+Before using the red cloak, I can see myself infront of the camera
 <img src="2.PNG" alt="Screenshot-02">
 
 Using the red cloak I invisible myslef.
